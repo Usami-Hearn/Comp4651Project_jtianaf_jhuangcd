@@ -3,6 +3,6 @@ Comp4651Project: A Literature Review on Distributed File Systems by HUANG Jiayin
 ## HUANG Jiaying
 
 ## TIAN Jingqi
-student ID:20677380
+Student ID:20677380
 
 Email: jtianaf@connect.ust.hk
